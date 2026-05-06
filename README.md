@@ -16,6 +16,16 @@ We completed the Solidity course and documented all learning materials, code exa
 
 ---
 
+## 👥 Group Members
+
+| Name                  | Student ID        | Section   |                      
+| --------              | ----------        | --------- | 
+| Ibrahim Muhaba        | UGR/30700/15      | Section 3 | 
+| Mohammed ismail       | UGR/30954/15      | Section 3 | 
+| Gadisa Yusuf          | UGR/30578/15      | Section 3 | 
+
+---
+
 ## 📚 Topics Covered
 
 ### 1. Solidity Introduction
@@ -46,14 +56,14 @@ We completed the Solidity course and documented all learning materials, code exa
 
 ## 🧪 Key Implementations
 
-* ✅ Smart contract basics
-* ✅ Function types (`view`, `pure`, `external`)
-* ✅ ETH transfer and contract interaction
-* ✅ Access control (`onlyOwner`, modifiers)
-* ✅ Escrow system (depositor, arbiter, beneficiary)
-* ✅ Voting system with execution logic
-* ✅ Data structures (arrays, structs, mappings)
-* ✅ Inheritance and modular design
+* Smart contract basics
+* Function types (`view`, `pure`, `external`)
+* ETH transfer and contract interaction
+* Access control (`onlyOwner`, modifiers)
+* Escrow system (depositor, arbiter, beneficiary)
+* Voting system with execution logic
+* Data structures (arrays, structs, mappings)
+* Inheritance and modular design
 
 ---
 
@@ -66,17 +76,6 @@ We completed the Solidity course and documented all learning materials, code exa
 /04-applied-solidity
 /screenshots
 ```
-
----
-
-## 👥 Team Contributions
-
-Each team member contributed by:
-
-* Writing and organizing code
-* Adding notes and documentation
-* Uploading screenshots of progress
-* Improving structure and readability
 
 ---
 
